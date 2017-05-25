@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\temp\visual studio 2015\projects\pilhastring\pilhastring\source.cpp(12): warning C4018: '<': signed/unsigned mismatch
+c:\temp\visual studio 2015\projects\pilhastring\pilhastring\source.cpp(39): warning C4018: '<': signed/unsigned mismatch
+  PilhaString.vcxproj -> c:\temp\visual studio 2015\Projects\PilhaString\Debug\PilhaString.exe
+  PilhaString.vcxproj -> c:\temp\visual studio 2015\Projects\PilhaString\Debug\PilhaString.pdb (Partial PDB)
